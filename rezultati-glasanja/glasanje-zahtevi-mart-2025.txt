@@ -1,0 +1,56 @@
+Da li podržavate studentske zahteve?
+Da - 340, Ne - 1, Uzdran - 1.   Razlika da-ne: 339
+
+Da li podržavate prosvetne radnike u obustavi?
+330-3-5 			Razlika da-ne: 327
+
+Da li ste za da organizujemo akcije prikupljanja pomoći za studente i đake u blokadi?
+309-3-6			Razlika da-ne: 306
+
+Da li ste za da naš zahtev bude da se hitno omogući da sve javne finansije budu 100% transparentne i lako dostupne za proveru, u našoj mesnoj zajednici, ali i u celom Novom Sadu i u Republici Srbiji?
+329-1-5 			Razlika da-ne: 328
+
+Da li ste za da naš zahtev bude hitna sanacija ili uklanjanje nebezbednih objekata na teritoriji MZ Žitni trg, ali u celom Novom Sadu?
+280-2-28 			Razlika da-ne: 278
+
+Da li ste za da naš zahtev bude ograđivanje parkinga kod novosadske filijale Republičkog fonda za zdravstveno osiguranje (tzv. Socijalno) fiksnom ogradom?
+74-32-163			Razlika da-ne: 42
+
+Da li ste za da podržimo Zahteve inženjera Srbije i da zahtevamo hitno sprovođenje njihovih zahteva 3 i 4 na teritoriji naše MZ, ali i u celom Novom Sadu i u Republici Srbiji?
+261-1-21 			Razlika da-ne: 260
+
+Da li ste za građanske blokade javnih objekata kao čin nenasilne, građanske borbe za promene u društvu?
+212-4-47			Razlika da-ne: 208
+
+Da li ste za da Zbor građana MZ Žitni trg pokušamo da zakažemo kroz redovnu, zakonima i važećim propisima propisanu proceduru?
+315-1-4			Razlika da-ne: 314
+
+Da li ste za da što pre organizujemo neformalni Zbor građana MZ Žitni trg?
+301-3-11			Razlika da-ne: 298
+
+Da li ste za da se pokrene postupak za opoziv trenutnih članova i predsednika MZ Žitni trg?
+259-1-42			Razlika da-ne: 258
+
+Da li ste za da zahtevamo hitnu kontrolu i sređivanje biračkih spiskova u našoj MZ?
+336-1-3			Razlika da-ne: 335
+	
+Da li ste za da naš zahtev bude hitno povećanje broja kontejnera za odlaganje otpada u našoj MZ?
+258-14-51			Razlika da-ne: 244
+
+Da li ste za da naš zahtev bude da se ulice u našoj MZ više ne zatvaraju preko dana zbog radova, nego da se radovi izvode u večernjim satima?
+97-65-133			Razlika da-ne: 32
+
+Da li ste za da oformimo stručne timove u ovoj zajednici (pravnici, inženjeri, prosvetni radnici, tim za medije itd.)?
+315-1-6			Razlika da-ne: 314
+
+
+Zaključak
+ 6 najvažnijih zahteva, prema ovom sistemu određivanja, su:
+
++339 Da li podržavate studentske zahteve?
++335 Da li ste za da zahtevamo hitnu kontrolu i sređivanje biračkih spiskova u našoj MZ?
++328 Da li ste za da naš zahtev bude da se hitno omogući da sve javne finansije budu 100% transparentne i lako dostupne za proveru, u našoj mesnoj zajednici, ali i u celom Novom Sadu i u Republici Srbiji?
++327 Da li podržavate prosvetne radnike u obustavi?
++314 Da li ste za da Zbor građana MZ Žitni trg pokušamo da zakažemo kroz redovnu, zakonima i važećim propisima propisanu proceduru?
++314 Da li ste za da oformimo stručne timove u ovoj zajednici (pravnici, inženjeri, prosvetni radnici, tim za medije itd.)?
+
